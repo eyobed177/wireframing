@@ -49,8 +49,6 @@ Represents interactive elements like buttons, forms, sliders, and drop-downs.
 
 ## 🧱 Types of Wireframes
 
-Wireframes vary based on how much detail they include. The two main types are:
-
 ### 🔹 Low-Fidelity Wireframes
 
 - **Definition**: Simple, rough sketches or digital layouts that focus on structure and flow, not detail.
@@ -73,6 +71,29 @@ This project primarily uses **Low-Fidelity Wireframes**.
 
 - **Reason**: The focus is on planning layout, user flow, and content structure before investing in visual design or development.
 - **Benefits**: Easy to create, quick to update based on feedback, and effective for early collaboration.
+
+## 🛠️ Popular Wireframing Tools
+
+Several tools are widely used for wireframing, each offering different features based on fidelity and collaboration needs:
+
+- **Balsamiq** – Great for low-fidelity wireframes with a sketch-like feel.
+- **Sketch** – Mac-only tool with strong UI design capabilities.
+- **Adobe XD** – Vector-based tool for UI/UX design with prototyping features.
+- **Axure RP** – Advanced tool that supports interaction and logic for more complex wireframes.
+
+### 🌟 Recommended: Figma
+
+**Figma** is a cloud-based design and prototyping tool that stands out for several reasons:
+
+- **Real-time Collaboration**: Multiple users can work on the same file simultaneously—ideal for teams.
+- **Cross-Platform**: Works directly in the browser or as a desktop app.
+- **Component Reusability**: Design faster using reusable components and styles.
+- **Versatile for Fidelity**: Suitable for both low- and high-fidelity wireframes.
+- **Free Tier Available**: Great for individuals or small teams starting out.
+
+**Why Figma for Wireframing?**
+
+Figma’s intuitive interface, speed, and collaboration features make it perfect for quickly drafting wireframes and refining them into polished UI designs—all in one place.
 
 ---
 
