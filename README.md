@@ -23,33 +23,57 @@ Wireframing is a crucial step in the UI/UX design process because it:
 
 ## 🧩 Key Elements of a Wireframe
 
-Understanding the key components of a wireframe ensures a strong and user-friendly design. Here are the fundamental elements:
-
 ### 1. **Layout Structure**
 
 Defines the overall arrangement of the page or screen.
 
-**Example**: A homepage layout might include a header at the top, a sidebar on the left, main content in the center, and a footer at the bottom. This structure helps maintain consistency across multiple pages.
+**Example**: A homepage layout might include a header at the top, a sidebar on the left, main content in the center, and a footer at the bottom.
 
 ### 2. **Navigation**
 
 Shows how users move through the interface.
 
-**Example**: A top navigation bar with links to Home, About, Services, and Contact allows users to quickly find what they're looking for. Proper navigation improves user experience and accessibility.
+**Example**: A top navigation bar with links to Home, About, Services, and Contact improves usability.
 
 ### 3. **Content Placement**
 
 Indicates where text, images, videos, and other content will appear.
 
-**Example**: Placing a call-to-action (CTA) button directly below a product description increases the chance of conversion. Wireframes ensure content is prioritized logically.
+**Example**: A call-to-action (CTA) button directly under a product description helps drive user interaction.
 
 ### 4. **Functionality**
 
-Represents interactive elements like buttons, forms, sliders, and drop-down menus.
+Represents interactive elements like buttons, forms, sliders, and drop-downs.
 
-**Example**: A search bar in the header allows users to find content instantly. Even in a static wireframe, indicating functionality (like "click here" or "hover for menu") guides development.
+**Example**: A login form with email and password fields, plus a "Submit" button.
+
+## 🧱 Types of Wireframes
+
+Wireframes vary based on how much detail they include. The two main types are:
+
+### 🔹 Low-Fidelity Wireframes
+
+- **Definition**: Simple, rough sketches or digital layouts that focus on structure and flow, not detail.
+- **Characteristics**: Black and white, use placeholders (like boxes and lines), little to no styling.
+- **When to Use**: Early in the design process for brainstorming, user flows, and quick iteration.
+
+**Example**: Hand-drawn or basic wireframes created with tools like Balsamiq.
+
+### 🔸 High-Fidelity Wireframes
+
+- **Definition**: Detailed and polished representations that closely resemble the final product.
+- **Characteristics**: Includes real text, colors, fonts, and spacing; may simulate functionality.
+- **When to Use**: Later in the design phase when validating design decisions or presenting to stakeholders.
+
+**Example**: Detailed Figma or Adobe XD wireframes showing near-final UI layout.
+
+## 🧾 What Type of Wireframe is Used Here?
+
+This project primarily uses **Low-Fidelity Wireframes**.
+
+- **Reason**: The focus is on planning layout, user flow, and content structure before investing in visual design or development.
+- **Benefits**: Easy to create, quick to update based on feedback, and effective for early collaboration.
 
 ---
 
->
-
+> Wireframes are the bridge between an idea and a fully functional product. Whether low- or high-fidelity, they help shape user experience before writing a single line of code.
