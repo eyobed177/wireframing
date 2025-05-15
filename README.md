@@ -163,3 +163,4 @@ When the high-fidelity prototype and development began, there were significantly
 
 Wireframing played a critical role in identifying and resolving usability problems **before development** began. By allowing the team to visualize, test, and iterate early, it ensured a smoother development process and a more user-friendly final product. Wireframes serve not only as blueprints but also as a tool for validating ideas and ensuring the design is built with the user in mind.
 
+
